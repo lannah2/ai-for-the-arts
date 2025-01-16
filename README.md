@@ -1,2 +1,3 @@
 # ai-for-the-arts
-This repository is for AI portfolio files.
+
+## Task: Write about the Purpose of a Repository, and your Goals for the End of the Course.
