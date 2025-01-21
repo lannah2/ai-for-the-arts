@@ -10,3 +10,5 @@ By the end of this course, I would like to obtain a deeper understadning of the 
 The purpose of my repository is to create a portfolio of my lab tasks which can be shared, copied and editied, whilst marking the progress of my understanding of GitHub and Artificial Intelligence for the Arts and Humanities.
 
 ## Task: Create a bulleted list of goals
+- Develop a greater understanding of the inner-working of AI
+- Create a well-rounded, concise portfolio of each weeks tasks
