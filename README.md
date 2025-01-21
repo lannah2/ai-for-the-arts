@@ -12,3 +12,5 @@ The purpose of my repository is to create a portfolio of my lab tasks which can 
 ## Task: Create a bulleted list of goals
 - Develop a greater understanding of the inner-working of AI
 - Create a well-rounded, concise portfolio of each weeks tasks
+- Learn to comprehend basic programming concepts
+- Improve my ability to read and present existing code
