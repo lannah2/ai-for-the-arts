@@ -1,4 +1,4 @@
-# AI for the Arts and Humanities Portfolio
+# ***AI for the Arts and Humanities Portfolio***
 
 ## GUID: 2800636
 
@@ -10,13 +10,13 @@ The purpose of my repository is to create a portfolio of my lab tasks which can 
 
 ## Task: Write about your Goals for the End of the Course.
 
-By the end of this course, I would like to obtain a sufficient level of understanding on the main principles within Artificial Intelligence and its History.
+By the end of this course, I would like to obtain a sufficient level of understanding on the main principles within **Artificial Intelligence** and its History.
 
-I would also like to expand my knowledge on the concept of machine learning, and how it utilises data in order to function.
+I would also like to expand my knowledge on the concept of **machine learning**, and how it utilises data in order to function.
 
-Furthermore, I would like to accquire the ability to comprehend different types of AI models and how to use them in a project.
+Furthermore, I would like to accquire the ability to comprehend different types of **AI models** and how to use them in a project.
 
-I aim to obtain a deeper understadning of the language utilised in Python Coding, and develop the foundations and skills required to construct a portfolio which demonstrates such code.
+I aim to obtain a deeper understadning of the language utilised in **Python Coding**, and develop the foundations and skills required to construct a portfolio which demonstrates such code.
 
 ## Task: Create a bulleted list of goals
 - Develop a greater understanding of the history of AI
@@ -27,7 +27,7 @@ I aim to obtain a deeper understadning of the language utilised in Python Coding
 - Engage with a range of current developments in AI and associated applications
 - Possess the ability to analyse the social impacts of AI applications
 
-## Bibliography for Parts 1, 2 & 3
+## ***Bibliography for Parts 1, 2 & 3***
   Biel, Isabella & Crittenden, William & Lovely, William. 2018. Embracing digitalization: student learning and new technologies
 Journal of Marketing Education Volume 41, Issue 1 (https://doi.org/10.1177/0273475318820895)
 
