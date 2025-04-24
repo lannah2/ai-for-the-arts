@@ -6,7 +6,12 @@
 Repositories are effective in writing, storing, sharing, and duplicating information and files without compromising the original data. They allow different versions of a file to be distributed and collaborated on, whilst actively mainting the initial document.
 
 ## Task: Write about the Purpose of your Repository
-The purpose of my repository is to create a portfolio of my lab tasks which can be shared, copied and edited, whilst marking the progress of my understanding of GitHub coding and Artificial Intelligence within the Arts and Humanities.
+The purpose of my repository is to create a portfolio of my lab tasks which can be shared, copied and edited, whilst simultaneously marking the progress of my understanding of GitHub coding and Artificial Intelligence within the Arts and Humanities.
+
+### This Repository Includes 3 Notebooks:
+- Coding Exercises
+- Machine Learning from Start to End
+- Proposal of a Large Language Model Application
 
 ## Task: Write about your Goals for the End of the Course.
 
