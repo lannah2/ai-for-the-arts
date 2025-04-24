@@ -14,7 +14,7 @@ The purpose of my repository is to create a portfolio of my work which has been 
 - Machine Learning from Start to End
 - Proposal of a Large Language Model Application
 
-The purpose of these notebooks is to display my development and utilisation of python coding and training machine learning models - as well as solidifying my understanding of how such models can be implemented in a real-life manner.
+The purpose of these notebooks is to display my development in the utilisation of python coding and training machine learning models - as well as solidifying my understanding of how such models can be implemented in a real-life manner.
 
 ## Task: Write about your Goals for the End of the Course.
 
