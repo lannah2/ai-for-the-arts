@@ -6,7 +6,7 @@
 Repositories are effective in writing, storing, sharing, and duplicating information and files without compromising the original data. They allow different versions of a file to be distributed and collaborated on, whilst actively mainting the initial document.
 
 ## Task: Write about the Purpose of your Repository
-The purpose of my repository is to create a portfolio of my work within the labs throughout the year, whilst simultaneously marking the progress of my understanding of GitHub coding and Artificial Intelligence within the Arts and Humanities.
+The purpose of my repository is to create a portfolio of my work which has been carried out within the labs throughout the year, whilst simultaneously marking the progress of my understanding of Python Coding and Artificial Intelligence as used within the Arts and Humanities. The intent behind this repository, is to portray to an audience the processes required to construct accurate machine learning models - through utilising Microsoft Copilot when neccessary, to offer support and guidance when approaching python coding as a complete beginner. (Microsoft Copilot is a complex large language model which utilises Artificial Intelligence to assist users with a plethora of tasks).
 
 ## Repository Content
 ### This Repository Includes 3 Notebooks:
